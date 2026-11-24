@@ -6,6 +6,6 @@ Architectures: iphoneos-arm64
 Components: main
 Description: POD Studio for Dopamine rootless iOS 15+
 SHA256:
- 28b397dd1c072ef21254d4bf21fe98372255f269b6dd5ef71f82fb45433c889a 626 Packages
- e0a3f034eba744acb2c89e7f25b3c7e70c881622c85fc57215d385887797df1b 447 Packages.gz
- ef41d794358e86b49a6bbcf1c5cce58c4da46c67f6d7e7aca9c3eb6c7dd885d4 497 Packages.bz2
+ 7746eb065d43632dbcf4273544aa99476aa9b0244376f7daec95b51b4a813c8e 626 Packages
+ 513797d2edbc84067a2ecad713dcfc78ae82b14bfe9476054ed62a02030387fd 447 Packages.gz
+ 21385fba09817a234be60f759f4c3e0199405b02c263b787584792542c4013eb 500 Packages.bz2
