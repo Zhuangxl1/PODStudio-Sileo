@@ -1,0 +1,11 @@
+Origin: POD Studio
+Label: POD Studio Rootless
+Suite: stable
+Codename: pod
+Architectures: iphoneos-arm64
+Components: main
+Description: POD Studio for Dopamine rootless iOS 15+
+SHA256:
+ fc886af734b9f4c6d404f4733ab1fe843dc0c5092872e9221776b324e5fc564d 604 Packages
+ ccd77d1bda013c59d8b24670d34e032a141d29a825730c3bc6d05d04baa58365 431 Packages.gz
+ 0da88fb5d23dce6d5e53941924228480008de2e9d47b5842df6bc6f24f4afdeb 467 Packages.bz2
