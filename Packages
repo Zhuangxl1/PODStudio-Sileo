@@ -1,6 +1,6 @@
 Package: com.chicheng.pod.mobile
 Name: POD Studio
-Version: 1.0.9
+Version: 1.0.10
 Architecture: iphoneos-arm64
 Description: Mobile designer and Miaoshou workspace for rootless iOS.
 Maintainer: Zhuangxl1
@@ -8,10 +8,10 @@ Author: Zhuangxl1
 Section: Applications
 Depends: firmware (>= 15.0)
 Priority: optional
-Installed-Size: 98917
-Filename: pool/com.chicheng.pod.mobile_1.0.9_iphoneos-arm64.deb
-Size: 39051724
-MD5sum: d35098eb95b396a4d54c137a154f790e
-SHA256: a7d1abad98f012cc7ba8e080d16603734b602c707204d726d6a7872f657370c2
-SHA512: d97a0a138b805527c26719ec2164f1ca0e78b81181bd40da7378a05510b8fa12eeed1aed94bba7f531e7a455dae2550dc26f7a38a2eb086e70944367bc6c07a7
+Installed-Size: 98929
+Filename: pool/com.chicheng.pod.mobile_1.0.10_iphoneos-arm64.deb
+Size: 39057426
+MD5sum: 194cac4f2b5c970e57568af0a06d15c4
+SHA256: 5558dc3aeb40a05b2ba3fab4b32f707c434891f529e2c895dd3b304bf909e483
+SHA512: 9118572e839dc626c4a00485e9f89dc5693f28d415cb35bc34aa3eb8aed6e5161b07ac89cbbd8c505121e98941a86ee9c6498960657cbc64d17cd30c304ebca3
 
